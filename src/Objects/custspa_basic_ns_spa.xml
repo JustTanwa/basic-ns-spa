@@ -1,0 +1,13 @@
+<singlepageapp scriptid="custspa_basic_ns_spa">
+  <name>Basic Netsuite SPA Application</name>
+  <description>This is a sample SuiteApp using the UIF framework</description>
+  <url>basicspa</url>
+  <folder>[/SuiteApps/tanwasripan.com.basicnsspa/basic-ns-spa/]</folder>
+  <clientscriptfile>[/SuiteApps/tanwasripan.com.basicnsspa/basic-ns-spa/SpaClient.js]</clientscriptfile>
+  <serverscriptfile>[/SuiteApps/tanwasripan.com.basicnsspa/basic-ns-spa/SpaServer.js]</serverscriptfile>
+  <assetsfolder>[/SuiteApps/tanwasripan.com.basicnsspa/basic-ns-spa/assets/]</assetsfolder>
+  <loglevel>AUDIT</loglevel>
+  <audienceallroles>F</audienceallroles>
+  <audienceroles></audienceroles>
+  <executeas></executeas>
+</singlepageapp>

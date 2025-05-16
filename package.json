@@ -1,0 +1,19 @@
+{
+    "name": "basic-ns-spa",
+    "version": "1.0.0",
+    "description": "Netsuite SPA Project using minimal configuration",
+    "devDependencies": {
+        "@oracle/netsuite-uif-types": "^7.0.0",
+        "@rollup/plugin-terser": "^0.4.0",
+        "gulp": "^4.0.2",
+        "gulp-typescript": "^5.0.0",
+        "roll": "^3.26.0",
+        "typescript": "^5.1.0"
+    },
+    "scripts": {
+        "cleam": "gulp clean",
+        "build": "gulp build",
+        "bundle": "gulp bundle"
+    },
+    "author": "Tanwa Sripan"
+}
