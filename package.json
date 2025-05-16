@@ -11,7 +11,7 @@
         "typescript": "^5.1.0"
     },
     "scripts": {
-        "cleam": "gulp clean",
+        "clean": "gulp clean",
         "build": "gulp build",
         "bundle": "gulp bundle"
     },
