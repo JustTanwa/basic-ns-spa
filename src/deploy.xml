@@ -1,6 +1,6 @@
 <deploy>
     <files>
-        <path>~/FileCabinet/SuiteApps/tanwasripan.com.basicnsspa/*</path>
+        <path>~/FileCabinet/SuiteApps/com.netsuite.basicnsspa/*</path>
     </files>
     <objects>
         <path>~/Objects/*</path>

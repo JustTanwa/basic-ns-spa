@@ -1,5 +1,5 @@
 <manifest projecttype="SUITEAPP">
-  <publisherid>tanwasripan.com</publisherid>
+  <publisherid>com.netsuite</publisherid>
   <projectid>basicnsspa</projectid>
   <projectname>Basic Netsuite SPA Application</projectname>
   <projectversion>1.0.0</projectversion>

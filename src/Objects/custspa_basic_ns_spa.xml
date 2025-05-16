@@ -2,10 +2,10 @@
   <name>Basic Netsuite SPA Application</name>
   <description>This is a sample SuiteApp using the UIF framework</description>
   <url>basicspa</url>
-  <folder>[/SuiteApps/tanwasripan.com.basicnsspa/basic-ns-spa/]</folder>
-  <clientscriptfile>[/SuiteApps/tanwasripan.com.basicnsspa/basic-ns-spa/SpaClient.js]</clientscriptfile>
-  <serverscriptfile>[/SuiteApps/tanwasripan.com.basicnsspa/basic-ns-spa/SpaServer.js]</serverscriptfile>
-  <assetsfolder>[/SuiteApps/tanwasripan.com.basicnsspa/basic-ns-spa/assets/]</assetsfolder>
+  <folder>[/SuiteApps/com.netsuite.basicnsspa/basic-ns-spa/]</folder>
+  <clientscriptfile>[/SuiteApps/com.netsuite.basicnsspa/basic-ns-spa/SpaClient.js]</clientscriptfile>
+  <serverscriptfile>[/SuiteApps/com.netsuite.basicnsspa/basic-ns-spa/SpaServer.js]</serverscriptfile>
+  <assetsfolder>[/SuiteApps/com.netsuite.basicnsspa/basic-ns-spa/assets/]</assetsfolder>
   <loglevel>AUDIT</loglevel>
   <audienceallroles>F</audienceallroles>
   <audienceroles></audienceroles>
